@@ -26,6 +26,7 @@ Start development server
 ## Design References
 
 **Typography**
+
 [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) by Google Fonts
 
 **Colors**
